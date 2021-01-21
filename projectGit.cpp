@@ -6,6 +6,7 @@ int main() {
     int growth;
     int ate;
 
+    std::cout << "Приветствую вас";
     std::cout << "Введите целевую высоту бамбука: ";
     std::cin >> targetHeight;
     std::cout << "Введите рост саженца: ";
