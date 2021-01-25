@@ -5,7 +5,7 @@ int main() {
     int startHeight;
     int growth;
     int ate;
-    
+
 /*  Этот коммент сделан, чтобы увидеть ветвление  */
 
     std::cout << "Приветствую вас";
